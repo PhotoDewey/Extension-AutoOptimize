@@ -49,4 +49,4 @@ Each correction can also be applied individually from the adjustments panel, so 
 
 ## Version
 
-1.1
+1.2
