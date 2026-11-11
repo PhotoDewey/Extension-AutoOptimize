@@ -21,6 +21,7 @@ Each correction can also be applied individually from the adjustments panel, so 
 - **Auto Levels** — per-channel histogram stretch that clips the darkest 1 % and brightest 1 % of pixels for a clean result without blown highlights
 - **Gamma Correct** — automatic mid-tone brightness correction that targets a natural average luminance
 - **Auto Colors** — gray-world white balance that neutralises colour casts without touching overall brightness
+- **Invert**: turns photos that were scanned as a negative (for example slides) back into positives; click again to remove the inversion
 
 ---
 
@@ -49,4 +50,4 @@ Each correction can also be applied individually from the adjustments panel, so 
 
 ## Version
 
-1.4
+1.5
