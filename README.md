@@ -1,5 +1,16 @@
 # Auto Optimize
 
+> [!IMPORTANT]
+> **Auto Optimize is now built into PhotoDewey.** Starting with PhotoDewey 1.0, Auto Optimize
+> (Auto Levels, Gamma Correct, Auto Colors, Auto Tone, Invert and the new Restore Faded) is part
+> of the app itself: you find it as the **Auto Optimize** card in the Extensions panel.
+>
+> - You no longer need to install this extension, and it is no longer offered in the
+>   in-app extension catalogue.
+> - PhotoDewey 1.0 removes an installed copy of `PhotoDewey.AutoOptimize.dll` automatically
+>   at startup. Photos you edited with the extension keep looking exactly the same.
+> - This repository is kept for its release history and is no longer updated.
+
 **One-click light and colour correction for your photos.**
 
 ---
