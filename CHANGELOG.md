@@ -1,5 +1,8 @@
 # AutoOptimize - Changelog
 
+## v1.5 - 2026-11-11
+- Added an Invert button that turns photos scanned as a negative (for example slides) back into positives. Click it again to remove the inversion; Reset also removes it.
+
 ## v1.4 - 2026-07-27
 
 - Added Auto Tone: a gentle, always-safe S-curve that lifts shadow detail and softens highlight roll-off without ever introducing new clipping. Applied via luminance-preserving colour scaling so hue and saturation are not distorted.
